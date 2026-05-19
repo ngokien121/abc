@@ -441,7 +441,7 @@ SUBTRACT : Trừ khối
 
 <div class="content" id="excel">
 
-<h2>VŨ ĐỨC NGUYÊN CÓ YÊU TRÂM KHÔNG</h2>
+<h2>VŨ ĐỨC NGUYÊN CÓ YÊU CHÂM KHÔNG</h2>
 
 <div class="choice-box">
     
@@ -449,8 +449,8 @@ SUBTRACT : Trừ khối
 
     <select id="love">
         <option>-- CHỌN Ở ĐÂY --</option>
-        <option>YÊU TRÂM</option>
-        <option>Rất yêu Trâm </option>
+        <option>YÊU CHÂM</option>
+        <option>Rất yêu châm </option>
         <option>KHÔNG YÊU </option>
     <select id="love" onchange="changeScene()">
 
