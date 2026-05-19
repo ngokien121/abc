@@ -447,12 +447,18 @@ SUBTRACT : Trừ khối
     
     <label for="love">Chọn một đáp án 💖</label>
 
+    <div class="choice-box">
+    
+    <label for="love">Chọn một đáp án 💖</label>
+
     <select id="love">
         <option>-- CHỌN Ở ĐÂY --</option>
         <option>YÊU CHÂM</option>
         <option>Rất yêu châm </option>
         <option>KHÔNG YÊU </option>
     <select id="love" onchange="changeScene()">
+
+</div>
 
 </div>
 
