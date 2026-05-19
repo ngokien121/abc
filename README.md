@@ -294,7 +294,7 @@ footer{
     <h1>TỔNG HỢP KIẾN THỨC</h1>
 
     <p>
-        AutoCAD • Excel • Điện Tự Động Hóa • Quy Trình Làm Việc
+        AutoCAD • Quy Trình Làm Việc
     </p>
 
 </header>
