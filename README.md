@@ -315,9 +315,8 @@ footer{
         QUY TRÌNH
     </button>
 
-    <button onclick="showContent('auto')">
-        ĐIỆN TỰ ĐỘNG HÓA
-    </button>
+     
+ 
 
 </div>
 
@@ -460,13 +459,6 @@ SUBTRACT : Trừ khối
 
 </div>
 
-</div>
-
-
-
-</div>
-
-</div>
 
 <!-- WORK -->
 
